@@ -18,7 +18,7 @@ NOTION_API_BASE = "https://api.notion.com/v1"
 
 def query_database(database_id: str) -> list[dict]:
     """Query all pages from a Notion database, handling pagination."""
-    url = f"{NOTION_API_BASE}/databases/{database_id}/query"
+    url = f"{NOTION_API_BASE}/data_sources/{database_id}/query"
     headers = {
         "Authorization": f"Bearer {NOTION_TOKEN}",
         "Notion-Version": NOTION_API_VERSION,
