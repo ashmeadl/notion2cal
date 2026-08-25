@@ -12,7 +12,7 @@ NOTION_TOKEN = os.environ.get("NOTION_TOKEN")
 NOTION_DATABASE_ID = os.environ.get("NOTION_DATABASE_ID")
 OUTPUT_FILE = os.environ.get("OUTPUT_FILE", "notion_calendar.ics")
 
-NOTION_API_VERSION = "2022-06-28"
+NOTION_API_VERSION = "2025-09-03"
 NOTION_API_BASE = "https://api.notion.com/v1"
 
 
