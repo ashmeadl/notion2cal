@@ -3,4 +3,100 @@ VERSION:2.0
 PRODID:-//notion2cal//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Notion Calendar
+BEGIN:VEVENT
+SUMMARY:Grant Proposal Reflection (individual)
+DTSTART;VALUE=DATE:20261215
+DTSTAMP:20260908T151233Z
+UID:3d53b949-e337-8053-95fe-fa6463472ca0@notion2cal
+URL:https://app.notion.com/p/Grant-Proposal-Reflection-individual-3d53b949
+ e337805395fefa6463472ca0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final Grant Proposal (grant)
+DTSTART;VALUE=DATE:20261211
+DTSTAMP:20260908T151233Z
+UID:3d53b949-e337-804c-b1c7-d4c0bf271a4d@notion2cal
+URL:https://app.notion.com/p/Final-Grant-Proposal-grant-3d53b949e337804cb1
+ c7d4c0bf271a4d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grant Pitch (group)
+DTSTART;VALUE=DATE:20261201
+DTSTAMP:20260908T151233Z
+UID:3d53b949-e337-809c-943e-ca3565f0ffc5@notion2cal
+URL:https://app.notion.com/p/Grant-Pitch-group-3d53b949e337809c943eca3565f
+ 0ffc5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Annotate Evidence Portfolio (group)
+DTSTART;VALUE=DATE:20261110
+DTSTAMP:20260908T151233Z
+UID:3d53b949-e337-80b4-8416-cc67443757ab@notion2cal
+URL:https://app.notion.com/p/Annotate-Evidence-Portfolio-group-3d53b949e33
+ 780b48416cc67443757ab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Country and Issue Proposal (group)
+DTSTART;VALUE=DATE:20261215
+DTSTAMP:20260908T151233Z
+UID:3d53b949-e337-808a-ae6c-c7f1ea349225@notion2cal
+URL:https://app.notion.com/p/Country-and-Issue-Proposal-group-3d53b949e337
+ 808aae6cc7f1ea349225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Education data workshop reflection
+DTSTART;VALUE=DATE:20260929
+DTSTAMP:20260908T151233Z
+UID:3d53b949-e337-8045-8d7b-e2bc2212b89f@notion2cal
+URL:https://app.notion.com/p/Education-data-workshop-reflection-3d53b949e3
+ 3780458d7be2bc2212b89f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Draft Proposal Workshop
+DTSTART;VALUE=DATE:20261117
+DTSTAMP:20260908T151233Z
+UID:3d53b949-e337-8018-9a39-e454912ef844@notion2cal
+URL:https://app.notion.com/p/Draft-Proposal-Workshop-3d53b949e33780189a39e
+ 454912ef844
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stakeholder/Privacy Mapping Workshop
+DTSTART;VALUE=DATE:20261013
+DTSTAMP:20260908T151233Z
+UID:3d53b949-e337-804b-bc37-fb507678e9d0@notion2cal
+URL:https://app.notion.com/p/Stakeholder-Privacy-Mapping-Workshop-3d53b949
+ e337804bbc37fb507678e9d0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Global Education Brief 2
+DTSTART;VALUE=DATE:20261020
+DTSTAMP:20260908T151233Z
+UID:3d53b949-e337-801a-9ec2-d3c8ca595b75@notion2cal
+URL:https://app.notion.com/p/Global-Education-Brief-2-3d53b949e337801a9ec2
+ d3c8ca595b75
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Research Questions/Problems Statements Workshop
+DTSTART;VALUE=DATE:20261013
+DTSTAMP:20260908T151233Z
+UID:3d53b949-e337-80a7-91de-ef36714809f9@notion2cal
+URL:https://app.notion.com/p/Research-Questions-Problems-Statements-Worksh
+ op-3d53b949e33780a791deef36714809f9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Education Data Workshop
+DTSTART;VALUE=DATE:20260922
+DTSTAMP:20260908T151233Z
+UID:3d53b949-e337-80fc-9f2c-f6f2dac9bb1b@notion2cal
+URL:https://app.notion.com/p/Education-Data-Workshop-3d53b949e33780fc9f2cf
+ 6f2dac9bb1b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Global Education Brief
+DTSTART;VALUE=DATE:20260922
+DTSTAMP:20260908T151233Z
+UID:3d53b949-e337-806d-896c-ee3d38bf1095@notion2cal
+URL:https://app.notion.com/p/Global-Education-Brief-3d53b949e337806d896cee
+ 3d38bf1095
+END:VEVENT
 END:VCALENDAR
